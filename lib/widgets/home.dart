@@ -10,11 +10,11 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   final List<String> _paths = [
-    'assets/img/IMG_7254.jpg',
-    'assets/img/IMG_7255.jpg',
-    'assets/img/IMG_7256.jpg',
-    'assets/img/IMG_7269.jpg',
-    'assets/img/IMG_7271.jpg',
+    'assets/img/144066.JPG',
+    'assets/img/144093.JPG',
+    'assets/img/219010.JPG',
+    'assets/img/486003.JPG',
+    'assets/img/486018.JPG',
   ];
   @override
   Widget build(BuildContext context) {
@@ -31,7 +31,6 @@ class _HomeState extends State<Home> {
           ),
         )
       ],
-
     );
   }
 }
